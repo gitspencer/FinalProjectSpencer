@@ -1,5 +1,9 @@
 # LeagueOlympia
 
+Website: [LeagueOlympia](http://18.116.157.70:8080/LeagueOlympia)
+
+Create account or login with Username: swilliams, Password: test
+
 Team Members:
 - Ryan Arment (Developer, RepoOwner)
 - Nick Spidell (Developer, DBA)
